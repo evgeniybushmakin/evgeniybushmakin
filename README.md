@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @evgeniybushmakin
-
 ## 👋  Hi there, I'm  Evgeniy 👋
 - 👀 I’m interested in programing, games
 - 🌱 I’m currently learning .NET, Html, CSS  
