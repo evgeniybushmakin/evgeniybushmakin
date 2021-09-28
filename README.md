@@ -1,6 +1,5 @@
 ## 👋  Hi there, I'm  Evgeniy 👋
 - 👀 I’m interested in programing, games
-- 🌱 I’m currently learning .NET, Html, CSS  
 - 📫 How to connect me: advokat3766277@gmail.com
 
 ## I'm a Developer!
